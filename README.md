@@ -1,7 +1,14 @@
-# cadastro_laravel
-Aplicação web para série de formulários de cadastro para pessoas idosas e/ou com deficiências (físicas/mentais/sociais) 
-======
-Web application for a series of forms related to health, deficiencies (phisical/mental/social), care treatment and services @author baguy and André R. Timóteo
+# Cadastro Laravel
+
+Aplicação web para série de formulários de cadastro para pessoas idosas e/ou com deficiências (físicas/mentais/sociais), parecer técnico e serviços relacionados
+
+***
+
+Web application for a series of forms related to health, deficiencies (phisical/mental/social), care treatment and services 
+
+***
+
+##### @author baguy and André R. Timóteo
 
 ### Para inicializar o projeto
 - clonar localmente
@@ -11,3 +18,14 @@ Web application for a series of forms related to health, deficiencies (phisical/
 - rodar _php artisan serve_
 - no navegador, inserir _localhost:8000_ para ter acesso à página de login
 - *usuário:* teste@gmail.com *senha:* 123456
+
+##### Funcionalidades
+- Pré-cadastro para usuários não cadastrados no sistema
+- Cadastro completo
+- Pareceres técnico de indivíduos
+- Filtros de pesquisa
+- Exportar pdf e tabela excel
+- Envio de email para funcionários com email cadastrados
+- Caixa de entrada separada em setores
+- Atendimentos com status de _aberto_, _em andamento_ e _encerrado_
+- Assentamentos para cada atendimento
