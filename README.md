@@ -29,3 +29,5 @@ Web application for a series of forms related to health, deficiencies (phisical/
 - Caixa de entrada separada em setores
 - Atendimentos com status de _aberto_, _em andamento_ e _encerrado_
 - Assentamentos para cada atendimento
+- Cadastro de novo usuário como ADMIN ou USER (diferenças de permissões)
+- Manual do usuário
