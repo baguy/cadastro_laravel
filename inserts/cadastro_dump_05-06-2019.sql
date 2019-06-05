@@ -807,7 +807,7 @@ CONSTRAINT `users_funcionario_id_foreign` FOREIGN KEY (`funcionario_id`) REFEREN
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (1,'MAYRA', 'mayradbueno@gmail.com','$2y$10$FiPOgiOIwiBxDBo/1ajYZOpfgUQU8qNqo6w8bd7PvE.gbYXctc4J.',NULL,'0000-00-00 00:00:00','0000-00-00 00:00:00',NULL, NULL);
+INSERT INTO `users` VALUES (1,'USUARIO', 'teste@gmail.com','$2y$10$FiPOgiOIwiBxDBo/1ajYZOpfgUQU8qNqo6w8bd7PvE.gbYXctc4J.',NULL,'0000-00-00 00:00:00','0000-00-00 00:00:00',NULL, NULL);
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 
