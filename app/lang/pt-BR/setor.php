@@ -1,0 +1,115 @@
+<?php
+
+return array(
+
+  //--------------------------------------------------------------------------
+  // User Repositiory Messages
+  //--------------------------------------------------------------------------
+
+  'setor'  => 'Setor',
+
+  'page.title.create' => 'Adicionar',
+  'page.title.edit'   => 'Editar',
+  'page.title.index'  => 'Lista de Setores',
+  'page.title.show'   => 'Perfil',
+
+  'help.actual.password' => 'Senha atual do usuário logado no sistema',
+  'help.password'        => 'Preencha somente se deseja alterar a senha',
+
+
+  'btn.ban'   => 'Banir',
+  'btn.unban' => 'Remover Banimento',
+
+  'btn.suspend'   => 'Suspender',
+  'btn.unsuspend' => 'Remover Suspensão',
+
+  'lbl.banned'       => 'Banido',
+  'lbl.suspended'    => 'Suspenso',
+  'lbl.last-access'  => 'Último Acesso',
+  'lbl.attempts'     => 'Tentativa(s)',
+  'lbl.last-attempt' => 'Última Tentativa',
+
+  'msg.banned'          => 'Usuário Banido',
+  'msg.suspended'       => 'Usuário suspenso por :minutes minutos',
+  'msg.last-access'     => 'Acessou o sistema pela última vez em :datetime',
+  'msg.no-access'       => 'Usuário nunca acessou o sistema',
+  'msg.no-last-attempt' => 'Sem registro da última tentativa',
+  'msg.attempts'        => 'Total de :attempts tentativa(s) sem êxito',
+  'msg.last-attempt'    => 'Última tentativa de acesso em :datetime',
+
+
+
+  'lbl.nome'                      => 'Nome',
+  'lbl.email'                     => 'Email',
+  'lbl.password'                  => 'Senha',
+  'lbl.password-confirmation'     => 'Confirmar Senha',
+  'lbl.actual-password'           => 'Senha Atual',
+  'lbl.roles'                     => 'Nível(is)',
+  'lbl.new-password'              => 'Nova Senha',
+  'lbl.new-password-confirmation' => 'Confirmar Nova Senha',
+  'lbl.data_nascimento'           => 'Data de nascimento',
+  'lbl.cpf'                       => 'CPF',
+  'lbl.sexo_id'                   => 'Sexo',
+  'lbl.cep'                       => 'CEP',
+  'lbl.numero'                    => 'Número',
+  'lbl.logradouro'                => 'Logradouro',
+  'lbl.tipo_logradouro'           => 'Tipo do logradouro',
+  'lbl.bairro'                    => 'Bairro',
+  'lbl.cidade'                    => 'Cidade',
+  'lbl.estado'                    => 'Estado',
+  'lbl.complemento'               => 'Complemento',
+  'lbl.tipo_estado_civil'         => 'Estado civil',
+  'lbl.regiao'                    => 'Região',
+  'lbl.ddd'                       => 'DDD',
+  'lbl.telefone'                  => 'Telefone',
+  'lbl.ramal'                     => 'Ramal',
+  'lbl.tipo_telefone'             => 'Tipo de telefone',
+  'lbl.data_casamento'            => 'Data de casamento',
+  'lbl.endereco'                  => 'Endereço',
+  'lbl.data_criacao'              => 'Data de criação',
+  'lbl.status'                    => 'Status',
+  'lbl.titulo'                    => 'Título',
+  'lbl.sus'                       => 'Cartão do SUS',
+  'lbl.idade'                     => 'Idade',
+  'lbl.nis'                       => 'Número de Identificação Social',
+  'lbl.tipo_parentesco'           => 'Vínculo',
+  'lbl.about'                     => 'Sobre',
+  'lbl.funcionarios'              => 'Funcionários',
+  'lbl.atendimento-aberto'        => 'Atendimentos Abertos',
+  'lbl.atendimento-pendente'      => 'Atendimentos Pendentes',
+  'lbl.atendimento-encerrado'     => 'Atendimentos Encerrados',
+
+  'plh.nome'                      => 'Nome completo',
+  'plh.email'                     => 'email@caraguatatuba.sp.gov.br',
+  'plh.password'                  => 'Senha',
+  'plh.password-confirmation'     => 'Confirmar Senha',
+  'plh.actual-password'           => 'Informe a Senha Atual',
+  'plh.roles'                     => 'Nível(is)',
+  'plh.new-password'              => 'Nova Senha',
+  'plh.new-password-confirmation' => 'Confirmar Nova Senha',
+  'plh.cpf'                       => 'Não insira pontos ou traços',
+  'plh.sexo_id'                   => 'Sexo',
+  'plh.data_nascimento'           => '00/00/0000',
+  'plh.cep'                       => '00000-000',
+  'plh.numero'                    => 'Numero da residência',
+  'plh.bairro'                    => 'Bairro da residência',
+  'plh.complemento'               => 'Complemento',
+  'plh.logradouro'                => 'Logradouro',
+  'plh.estado'                    => 'Estado',
+  'plh.cidade'                    => 'Cidade',
+  'plh.ddd'                       => '(00)',
+  'plh.telefone'                  => '00000-0000',
+  'plh.ramal'                     => '',
+  'plh.data_casamento'            => '00/00/0000',
+  'plh.sus'                       => '000 0000 0000 0000',
+  'plh.idade'                     => '',
+  'plh.nis'                       => '000.00000.00-0',
+
+  'tab.activity' => 'Atividade',
+  'tab.chamado'  => 'Chamados',
+  'tab.logs'     => 'Logs',
+  'tab.ativo'    => 'Usuários ativos',
+  'tab.inativo'  => 'Usuários inativo',
+  'tab.info-adicional' => 'Informações adicionais',
+
+);

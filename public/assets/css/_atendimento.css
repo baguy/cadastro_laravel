@@ -1,0 +1,9 @@
+input[type=date] {
+  text-align: right;
+}
+
+input[type="date"]:before {
+  color: grey;
+  content: attr(placeholder) !important;
+  margin-right: 0.5em;
+}

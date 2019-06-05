@@ -1,0 +1,1 @@
+new AdminTR.TableDescription().initialize();

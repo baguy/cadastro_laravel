@@ -1,0 +1,110 @@
+/* iCheck Hacks */
+.icheckbox_square-blue {
+	vertical-align: bottom;
+}
+
+.row{
+	margin-top: 10px;
+}
+
+/* Bootstrap Toggle Hacks */
+.toggle-on.btn, .toggle-off.btn {
+  line-height: initial;
+  font-weight: 500!important;
+}
+
+/* Error Messages Hacks */
+.has-error .form-control {
+	border-color: #dc3545;
+}
+
+.has-error .input-group-text {
+	border-color: #dc3545;
+	color: #dc3545;
+}
+
+.has-error .form-check-label {
+	color: #dc3545;
+}
+
+.has-error .invalid-feedback {
+	display: block;
+}
+
+/* Ellipsis */
+.ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+/* Columns */
+.col-options {
+	width: 154px;
+}
+
+.col-roles {
+	width: 125px;
+}
+
+.col-created-at {
+	width: 160px;
+}
+
+/* Legends */
+
+.legend {
+	display: inline-block;
+  width: 30px;
+  height: 21px;
+}
+
+.legend.legend-success {
+	background: #b0f2ba;
+	border: 1px solid #55cc67;
+}
+
+.legend.legend-danger {
+	background: #f5c6cb;
+  border: 1px solid  #cc7880;
+}
+
+.legend.legend-warning {
+	background: #ffeeba;
+  border: 1px solid #e2c25f;
+}
+
+.spacer {
+	width:100%;
+	border-bottom:1px solid lightgray;
+	margin: 10px 0 20px 0;
+}
+
+.btn-light{
+  border: 1px solid #ced4da !important;
+  background-color: white !important;
+	margin-left: 0px !important;
+}
+
+.btn-light > .filter-option{
+  padding-top: 7px !important;
+}
+
+.assentamento {
+	margin-bottom:20px;
+}
+	/* FORMULÁRIOS DO USUÁRIO */
+span.obrigatorio {
+	   color: red;
+}
+label.error {
+	 color: red;
+		/* font-weight: normal; */
+}
+
+.main-sidebar { background-color: #02302b !important }
+.control-sidebar { background-color: #02302b !important }
+
+button.btn-toggle, a.active, h3.card-title, div.card-header, a.btn-secondary, button.btn-secondary, span#searchChevronDown, span#searchChevronUp{
+	background-color: #02302b !important;
+}
