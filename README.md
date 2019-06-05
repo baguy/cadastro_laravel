@@ -37,6 +37,7 @@ Web application for a series of forms related to health, deficiencies (phisical/
 - PHP
 - HTML/CSS
 - Javascript/Jquery
+- MySQL
 - Framework Bootstrap
 - Framework Laravel
 - Mapbox
