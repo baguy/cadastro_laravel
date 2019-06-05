@@ -1,10 +1,10 @@
 # Cadastro Laravel
 
-Aplicação web para série de formulários de cadastro para pessoas idosas e/ou com deficiências (físicas/mentais/sociais), parecer técnico e serviços relacionados
+Aplicação web para série de formulários de cadastro para pessoas idosas e/ou com deficiências (físicas/mentais/sociais), parecer técnico e serviços relacionados.
 
 ***
 
-Web application for a series of forms related to health, deficiencies (phisical/mental/social), care treatment and services 
+Web application for a series of forms related to health, deficiencies (phisical/mental/social), care treatment and related services.
 
 ***
 
